@@ -1,4 +1,4 @@
-# LabVIEW_LJUD
+# LabVIEW_LJUD - for MFC and PID control
 This is the public repository for LabVIEW code to use the LabJack UD Driver.
 
 LabVIEW_LJUD - LabVIEW drivers/examples for LabJackUD
