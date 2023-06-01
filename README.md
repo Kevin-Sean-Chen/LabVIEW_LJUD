@@ -1,6 +1,6 @@
 # LabVIEW_LJUD - for MFC and PID control
 This is the public repository for LabVIEW code to use the LabJack UD Driver.
-The vi under Examples/U3/ has been modified to control MFC and PID for the paper [Chen, Wu et. al., 2023](https://doi.org/10.48550/arXiv.2301.05905).
+The vi under Examples/U3/ has been modified to control MFC and PID for the paper [Chen, Wu et. al., 2023](https://doi.org/10.48550/arXiv.2301.05905). We use MFC_PID_new.vi to control MFC and record from PID for experiments. In addition, the labjack ports and channels are custom to read back from the MFC control signal and the optical flow meter.
 
 The software used for our study is LabVIEW 2021 and the Labjack driver mentioned below.
 
